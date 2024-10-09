@@ -1,3 +1,4 @@
-x = 5
-print(x)
-asdsda
+x = int(input())
+
+c = x + 1
+print(c)
