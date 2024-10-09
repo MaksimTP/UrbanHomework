@@ -4,3 +4,4 @@ c = x + 1
 
 x = 5
 print(c)
+print(5)
